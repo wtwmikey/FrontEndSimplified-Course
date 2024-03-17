@@ -1,0 +1,39 @@
+!! Block elements start on a new line and take the full width available
+
+!! inline elements do not start on a new line and take only the necessary width
+
+some examples on block and inline level elements:
+-block Level: <div>, <h1> to <h6>, <p>.
+-inline Level: <span>, <a>,<button>.
+-----
+
+link open in a new tab: 
+add '"target="_blank"' after you put the link address inside the first ancor tag.
+
+-----
+grab images/assets from folders inside the same directory:
+"./"
+
+grab images/assets from outside folders:
+"../"
+
+-----
+required tag for a from:
+<"tag" required/>
+
+"email" tag for a form makes an email bar
+"password" tag for a form makes a password bar
+to add a age add a "number" tag in the form
+"date" tag to a form makes a calendar
+
+textarea tag to create an area for text (IT IS NOT SELF-CLOSING)
+"<textarea></textarea>"
+
+to have certain amount of rows:
+"<textarea rows="x"></textarea>"
+
+
+----
+<hr> tag makes creates a horizontal line across the page
+
+----
